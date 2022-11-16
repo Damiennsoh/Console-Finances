@@ -17,9 +17,10 @@ N/A
 Please refer to the license document in the repository.
 
 ## Links
-Soon.....
-Soon....
+https://damiennsoh.github.io/Console-Finances/
+
+https://github.com/Damiennsoh/Console-Finances
 
 ## Screenshots
-
+![image]
 
