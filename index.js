@@ -1,3 +1,5 @@
+// Create code for analyzing the financial records of a company.
+
 var finances = [
 ['Jan-2010', 867884],
 ['Feb-2010', 984655],
@@ -86,3 +88,27 @@ var finances = [
 ['Jan-2017', 138230],
 ['Feb-2017', 671099]
 ];
+
+// Calculate the total number of months from the dataset.
+
+//total months is equal to the length of the array.
+
+
+var Months = finances.length;{
+    console.log("Financial Analysis");
+    console.log("...................");
+    console.log("Total Months " + Months);
+    }
+
+   
+// Calculate the net total amount of profit/loss for the entire period.
+// Calculate the average of the changes in profit/loss over the entire period.
+// Calculate the greatest increase in profits including the date and amount
+// Calculate the greatest decrease in losses including date and amount for the entire period.
+    
+var totalProfit = 0;
+for (var i = 0; i < finances.length; i++){
+var currentMonth=finances[i];
+netProfit = totalProfit + currentMonth[i]
+}
+console.log (netProfit)
