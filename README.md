@@ -22,6 +22,6 @@ https://damiennsoh.github.io/Console-Finances/
 https://github.com/Damiennsoh/Console-Finances
 
 ## Screenshots
-![image](https://github.com/Damiennsoh/Console-Finances/blob/main/Screenshots/deploy%20consle.jpg?raw=true)
+![image](https://github.com/Damiennsoh/Console-Finances/blob/main/Screenshots/Finace.console.jpg)
 
 
