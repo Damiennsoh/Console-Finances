@@ -24,4 +24,6 @@ https://github.com/Damiennsoh/Console-Finances
 ## Screenshots
 ![image](https://github.com/Damiennsoh/Console-Finances/blob/main/Screenshots/Finace.console.jpg)
 
+* Damien N. Ayine|[Damiennsoh](https://github.com/
+
 
